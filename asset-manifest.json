@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LiveMessagingApp/static/css/main.80224d61.css",
+    "main.js": "/LiveMessagingApp/static/js/main.6e0821f8.js",
+    "index.html": "/LiveMessagingApp/index.html",
+    "main.80224d61.css.map": "/LiveMessagingApp/static/css/main.80224d61.css.map",
+    "main.6e0821f8.js.map": "/LiveMessagingApp/static/js/main.6e0821f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80224d61.css",
+    "static/js/main.6e0821f8.js"
+  ]
+}
